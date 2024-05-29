@@ -1,1 +1,6 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/kw1YU2tQ)
+# Project
+
+* Names: Sofia Acosta Pareja and Isabela Acosta Pareja.
+* Operating system version: Windows 11 pro 23H2.
+* Programming language: Python 3.11
+* Instructions to execute its implementation: No library is needed to run it, just click "Run" and the program will prompt through the console for the number of cases, the number of non-terminals, and the grammar.
